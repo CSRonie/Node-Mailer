@@ -1,0 +1,17 @@
+{
+    "local":{
+        "email":{
+            "from":"tutsygaming@gmail.com",
+            "to":"larry.cocollo@gmail.com",
+            "subject": "TutsyGaming Credentials Enjoy!!!"
+                },
+         "transport":{
+                "service":"gmail",
+                "auth": {
+                    "user": "tutsygaming@gmail.com",
+                    "pass": "dnwgqxlvdsxouzgh" 
+                    
+                        }
+                    }
+            }     
+}
